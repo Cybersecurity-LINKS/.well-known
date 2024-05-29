@@ -1,16 +1,17 @@
 {
-    "id": "did:iota:rms:0xb601fb475b24285d8176e1ba918854a2cb91b7085fba09d31a7a1c71c1f1e7ef",
-    "verificationMethod": [
-      {
-        "id": "did:iota:rms:0xb601fb475b24285d8176e1ba918854a2cb91b7085fba09d31a7a1c71c1f1e7ef#VKg_Y_Yl9V27N50_yDXJZbsba1ey7a_CCdLzWHj26Ws",
-        "controller": "did:iota:rms:0xb601fb475b24285d8176e1ba918854a2cb91b7085fba09d31a7a1c71c1f1e7ef",        
-        "type": "JsonWebKey",
-        "publicKeyJwk": {
-          "kty": "ML-DSA",
-          "alg": "ML-DSA-44",
-          "kid": "VKg_Y_Yl9V27N50_yDXJZbsba1ey7a_CCdLzWHj26Ws",
-          "pub": "V_W0bR9RaVS9EjD9lnjQRBUy75fKRFk0kHW077eUaqxS77GE4A6ovQmmsx7IeQi8DA3SkIHwtHKEcTL2U0mz-MOlWjdIohuuXptyLm5y8tL2xCV5AVRbcH01hq311SuKb0seEEsFRn6yaku6IjI6Jpzj_0nOPKTPizbm4Tf49TLWQeR4B76daV1-BBkeyuS-IF4UNtP9qXoM_n21dCT8Z4u6hukoDEJyIHZuIXWPR26xfzkFBhaJLwjKSQXDqLmmykyJWEYlqtfsaghP0s6Kh0T8aQL_4Rj6rgncmwl4TYNXRUYyX7UxjBopa8ufHtRW1DuUijAaL0O13_HfMiTFMmm6GrleFmTQnQPzL-uUIIDXkv7DiRdXtfvxD6A5TAU09VIjyfXSPvU0537S4k6xOiholAaJUHApfL4kzhGqwbrxscaMhsesl1QatXRY2UIKNWNkYJfiN24dFWrS8X3_Ckj2CW9yciJQSOffhnZkVjlgzDIGW-jlRkFGl1yycxPKLlGVjR_iuKs4nYIfhn4iHQ4SmE-Y3K4qW4HmSEmZuTDMcJaVoE4dbXVAbo1N5LxORP3SDNZJ-ZUUeqzUl_Oe5QQmE6VO57X5lxELWWCGmwVXB_rkEdOq3fapa-TMviFPo_ZC6USi-cIAvSaWislhGHYTnLDw-XmWTlnFHbgz5MByae77MpPmPGg0xHy3HcNGp_LeRt2C_tWXwZ5QcmB3nURn3c4B_msX03aesV6MCc0Dw6lyaGJiAPmIh7ZyeA3c52YBDiuCZFZ3H-eNvQOu9ZV0RyW5f9kUCpdNZ899RQDne5u_QfonH4qZV6KU3-x2cCkH8E2W_DBA5omGOgTGHyg_qEsBi5VgQTQM8_oS2BI2uZPs8Zqj-M_gjcZhL16wqwe-xdRSyDjssw27eYcKDSKDeXm509kk-XyJXAtUys_3GHzVLhiBCbmXbPLLTZAuu9hBd_bNEctLce0yibs3ErUYNKdPJ9JRPJgyW7-CsfxIm0cpUw2Acblb_QlbO7drx9lwqqcE5RzhX5O4V267rClZ6EvfURbVPbMJvKn9m66s7UjxiMjWxUVEzlJ9n9l81D3okHB5yIuMz6WqHhKIAZbZBTxSxCRLtWgxqBjjIUwBUuN4Iin9MOLI9Phg_YRPo_NJPtwan4_noN9kadU_0csK0dE0pHzYRaW7CYeRMtwodFn753_MdcNbfDHtU2h62XXmoEaCm8XzguYBeTsBzhO9THAY77fKQBxDn-Frf0c3V5v91jG4SHxQ9k3Tc6ccov_itLrC_OQOWcmYCINiRdv9E-6ZAI9arX27HuJ_Y-nFQwBhCiKkcI2K9pFIa3AubqByPjcLcJdB6tyIKoDiPsKMjAPj2dfy5bRXiS7E2n-WLJr9h-Hq59OOseTCTcYW47g5JBv3ozMxD1__BaoHM8LV_wrKoZlHt_vt-TdfVRDV0eIlapLsEcUgRGK9tlaCF3Q8_AzMIaJa1nZdx1f1r6vJHpoEOjBC_hFukmJr-vC49vO52krXzwgwKAhROR2yjRY9kiGn5P8zk6qG01RF9bSzYutvkBbdxW0jZNPwzlaevYtFtjukVIRi-YqDa0H8sABRCZ3zzmylr-Q8bbjxoT9NwaO2onqfUDhFU7BMYsWE5CHBYgmbE1iPO97OtnC7LosKvjU3_ssCntDP6odlgfL6tVMDFLN5m4femzWCabeAS_HkVmAbfXbESJvTa1_ZHX8E64k3HtJJNpAU2y_QpA"
-        }
+  "id": "did:web:cybersecurity-links.github.io:.well-known:did.json",
+  "verificationMethod": [
+    {
+      "id": "did:web:cybersecurity-links.github.io:.well-known:did.json#eCfGm7Ek-LreC3YdPCtbXidyD2zgIutuZv3LrSmvd8U",
+      "controller": "did:web:cybersecurity-links.github.io:.well-known:did.json",
+      "type": "JsonWebKey2020",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "alg": "EdDSA",
+        "kid": "eCfGm7Ek-LreC3YdPCtbXidyD2zgIutuZv3LrSmvd8U",
+        "crv": "Ed25519",
+        "x": "MinFnw25AutAsEGoZ36DvRrY2CA6tJaTjll--_C3Mi0"
       }
-    ]
- }
+    }
+  ]
+}
