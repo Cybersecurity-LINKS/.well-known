@@ -4,7 +4,7 @@
     {
       "id": "did:web:cybersecurity-links.github.io:.well-known:did.json#eCfGm7Ek-LreC3YdPCtbXidyD2zgIutuZv3LrSmvd8U",
       "controller": "did:web:cybersecurity-links.github.io:.well-known:did.json",
-      "type": "JsonWebKey2020",
+      "type": "JsonWebKey202",
       "publicKeyJwk": {
         "kty": "OKP",
         "alg": "EdDSA",
