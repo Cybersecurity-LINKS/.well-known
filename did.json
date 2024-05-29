@@ -4,12 +4,12 @@
     {
       "id": "did:web:cybersecurity-links.github.io:.well-known:did.json#eCfGm7Ek-LreC3YdPCtbXidyD2zgIutuZv3LrSmvd8U",
       "controller": "did:web:cybersecurity-links.github.io:.well-known:did.json",
-      "type": "JsonWebKey202",
+      "type": "JsonWebKey2020",
       "publicKeyJwk": {
         "kty": "OKP",
         "alg": "EdDSA",
         "kid": "eCfGm7Ek-LreC3YdPCtbXidyD2zgIutuZv3LrSmvd8U",
-        "crv": "Ed25519",
+        "crv": "Ed25518",
         "x": "MinFnw25AutAsEGoZ36DvRrY2CA6tJaTjll--_C3Mi0"
       }
     }
